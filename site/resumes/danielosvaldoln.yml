@@ -1,0 +1,107 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Daniel Osvaldo
+  last_name: Lopez
+  motto: Multitasking Professional with over 10 years of exprience in Business
+    Operations & Client Services
+  focus: HTML, CSS, JavaScript, Node.
+  summary: My role involved managing the background check process for
+    approximately 60 to 80 applicants per month. I coordinated with various
+    stakeholders including project managers, hiring managers, legal teams,
+    recruiting agencies, and candidates to ensure a smooth process.
+    Communication primarily occurred through email and meetings.
+  avatar: https://avatars.githubusercontent.com/u/173407357?v=4
+  email: danielnarce@icloud.com
+  phone: 811 923 9649
+  website: github.com/danielosvaldoln
+  linkedin: danielnarce
+  github: danielosvaldoln
+  twitter: danielnarce
+  stack-overflow: null
+  languages:
+    - idiom: English
+      level: Advanced C2
+    - idiom: French
+      level: Basic A1
+    - idiom: Spanish
+      level: Native
+  interests:
+    - item: Climbing
+    - item: Programming
+    - item: Traveling
+education:
+  - degree: Bachelor's in Business Administration
+    university: Universidad Autonoma de Nuevo Leon
+    university_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHuqmwKsHyJniv5EDcBtpHDj0bIfcnQpUgQ&s
+    time: 2013 - 2017
+    details: Strategic and adaptable professional with 8 years of experience
+      delivering optimal results for international teams and clients.  possess
+      the ability to navigate under pressure, develop creative solutions,
+      andforge strong partnerships. My dedication to data accuracy and efficient
+      project management consistently exceeds clientexpectations.
+experiences:
+  - role: HR Operations & Client Services Specialist
+    time: December 2018 - Present
+    company: Accenture Digital Services
+    company_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsOev-NyWHSnM89sc6SV5AqCEvLp3OYaMuBw&s
+    details: Successfully assisted in the background investigation process of
+      diverse hire lists for Accenture's US and Canadian offices (800+
+      candidates per year). Collaborated effectively with HR and Legal partners,
+      Project Managers, and Recruiting Agencies, demonstrating meticulous
+      attention to detail and strong project management skills.
+  - role: US Accounts Payable Analyst
+    time: October 2017 - December 2018
+    company: Monterrey, Nuevo Leon
+    company_logo: https://www.treefrog.ca/wp-content/uploads/2020/03/Epicor-consultants-encompass-solutions-1.png
+    details: Reviewed and reconciled over 50+ invoices daily, including cash receipts, and credit memos from various vendors. 
+
+  - role: US Accounts Payable Analyst
+    time: August 2016 - June 2017
+    company: Apocada, Nuevo LeonLondon
+    company_logo: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0acf2f2a-c373-482a-8aa0-1d4110c0f3f9_1200x635.jpeg
+    details: Reconciled over 200+ invoices daily, including coded credit memos,
+      ensuring accuracy and compliance with the terms of payment.
+projects:
+  intro: Work in progress. 
+  assignments:
+    - title: First Week of BootCamp
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: https://github.com/danielosvaldoln
+      tagline: A responsive website template designed to help startups promote, market
+        and sell their products.
+    - title: DevStudio
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive website template designed to help web developers/designers
+        market their services.
+    - title: Tempo
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive website template designed to help startups promote their
+        products or services and to attract users &amp; investors
+    - title: Atom
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A comprehensive website template solution for startups/developers to
+        market their mobile apps.
+    - title: Delta
+      project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      link: "#"
+      tagline: A responsive Bootstrap one page theme designed to help app developers
+        promote their mobile apps
+skills:
+  toolset:
+    - name: Python & Django
+      level: 98%
+    - name: JavaScript & jQuery
+      level: 98%
+    - name: Angular
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: Ruby on Rails
+      level: 85%
+    - name: Sketch & Photoshop
+      level: 60%
